@@ -1,5 +1,5 @@
 # Linguaggi e Computabilità Unimib 2018/2019
-Esercizi di laboratorio del corso Linguaggi e Computabilità @Unimib 2018/2019.
+Esercizi di laboratorio del corso Linguaggi e Computabilità Unimib 2018/2019.
 
 Gli esercizi proposti sono relativi all'utilizzo di lexer e parser, nello specifico jflex e byaccj.
 ___
